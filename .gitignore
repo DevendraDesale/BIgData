@@ -1,0 +1,10 @@
+# Workspace and system folders
+.metadata
+.DS_Store
+
+# langauge specific Files 
+*.class
+
+# log files
+*.log
+
