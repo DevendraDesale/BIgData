@@ -1,0 +1,8 @@
+https://github.com/zinniasystems/spark-ml-class.git
+https://github.com/snowplow/spark-example-project.git
+https://github.com/spirom/LearningSpark.git
+https://github.com/holdenk/fastdataprocessingwithsparkexamples.git
+https://github.com/donigian/hadoop_map_reduce_examples.git
+https://github.com/rathboma/hadoop-framework-examples.git
+https://github.com/vilcek/R_MapReduce_Logistic_Regression.git
+
